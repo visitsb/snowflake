@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'noto_sansregular';
+    src: url('../font/NotoSans-Regular-webfont.eot');
+    src: url('../font/NotoSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/NotoSans-Regular-webfont.woff') format('woff'),
+         url('../font/NotoSans-Regular-webfont.ttf') format('truetype'),
+         url('../font/NotoSans-Regular-webfont.svg#noto_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'windsongregular';
+    src: url('../font/Windsong-webfont.eot');
+    src: url('../font/Windsong-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Windsong-webfont.woff') format('woff'),
+         url('../font/Windsong-webfont.ttf') format('truetype'),
+         url('..font/Windsong-webfont.svg#windsongregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotothin';
+    src: url('../font/Roboto-Thin-webfont.eot');
+    src: url('../font/Roboto-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Roboto-Thin-webfont.woff') format('woff'),
+         url('../font/Roboto-Thin-webfont.ttf') format('truetype'),
+         url('../font/Roboto-Thin-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sanslight';	/* http://www.fontspring.com/blog/fixing-ie9-font-face-problems */
+    src: url('../font/OpenSans-Light-webfont.eot');	/* IE9 Compat Modes */
+    src: url('../font/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),	/* IE6-IE8 */
+         url('../font/OpenSans-Light-webfont.woff') format('woff'),	/* Modern Browsers */
+         url('../font/OpenSans-Light-webfont.ttf') format('truetype'),	/* Safari, Android, iOS */
+         url('../font/OpenSans-Light-webfont.svg#open_sanslight') format('svg');	/* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';	/* http://www.fontspring.com/blog/fixing-ie9-font-face-problems */
+    src: url('../font/OpenSans-Regular-webfont.eot');	/* IE9 Compat Modes */
+    src: url('../font/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),	/* IE6-IE8 */
+         url('../font/OpenSans-Regular-webfont.woff') format('woff'),	/* Modern Browsers */
+         url('../font/OpenSans-Regular-webfont.ttf') format('truetype'),	/* Safari, Android, iOS */
+         url('../font/OpenSans-Regular-webfont.svg#open_sanslight') format('svg');	/* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ubuntu-titletitle';
+    src: url('../font/Ubuntu-Title-webfont.eot');
+    src: url('../font/Ubuntu-Title-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Ubuntu-Title-webfont.woff') format('woff'),
+         url('../font/Ubuntu-Title-webfont.ttf') format('truetype'),
+         url('../font/Ubuntu-Title-webfont.svg#ubuntu-titletitle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('../font/CaviarDreams-webfont.eot');
+    src: url('../font/CaviarDreams-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/CaviarDreams-webfont.woff') format('woff'),
+         url('../font/CaviarDreams-webfont.ttf') format('truetype'),
+         url('../font/CaviarDreams-webfont.svg#caviar_dreamsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'journalregular';
+    src: url('../font/journal-webfont.eot');
+    src: url('../font/journal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/journal-webfont.woff') format('woff'),
+         url('../font/journal-webfont.ttf') format('truetype'),
+         url('..font/journal-webfont.svg#journalregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'existencelight';
+    src: url('../font/Existence-Light-webfont.eot');
+    src: url('../font/Existence-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Existence-Light-webfont.woff') format('woff'),
+         url('../font/Existence-Light-webfont.ttf') format('truetype'),
+         url('../font/Existence-Light-webfont.svg#existencelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
